@@ -1,5 +1,5 @@
 const totalNo = (value) => {
-  console.log(value*10);
+  console.log(value*value);
 } 
 
 totalNo(10);
